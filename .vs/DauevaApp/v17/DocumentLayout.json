@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|c:\\users\\aaaa\\desktop\\daueva-b3-master\\dauevaapp\\model\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\model\\connectiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|c:\\users\\aaaa\\desktop\\daueva-b3-master\\dauevaapp\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|c:\\users\\aaaa\\desktop\\daueva-b3-master\\dauevaapp\\pages\\operatoreditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\operatoreditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\operatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\operatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|c:\\users\\aaaa\\desktop\\daueva-b3-master\\dauevaapp\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|c:\\users\\aaaa\\desktop\\daueva-b3-master\\dauevaapp\\model\\autotrans.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\model\\autotrans.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\operatoreditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\operatoreditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\clientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\operatorpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\operatorpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\model\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\model\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\dauevaapp\\pages\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A3904AB-751F-43C6-8873-D503FE717F48}|DauevaApp\\DauevaApp.csproj|solutionrelative:dauevaapp\\pages\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Page1.xaml.cs",
+              "RelativeToolTip": "DauevaApp\\Pages\\Page1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:12:40.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Page1.xaml",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\Page1.xaml",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Page1.xaml",
+              "RelativeToolTip": "DauevaApp\\Pages\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T13:49:45.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoTrans.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\AutoTrans.edmx.diagram",
+              "RelativeDocumentMoniker": "DauevaApp\\Model\\AutoTrans.edmx.diagram",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\AutoTrans.edmx.diagram",
+              "RelativeToolTip": "DauevaApp\\Model\\AutoTrans.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-24T13:49:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionDb.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\ConnectionDb.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Model\\ConnectionDb.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\ConnectionDb.cs",
+              "RelativeToolTip": "DauevaApp\\Model\\ConnectionDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:48:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\AddPage.xaml.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\AddPage.xaml.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\AddPage.xaml.cs",
+              "RelativeToolTip": "DauevaApp\\Pages\\AddPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:48:29.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\AddPage.xaml",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\AddPage.xaml",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\AddPage.xaml",
+              "RelativeToolTip": "DauevaApp\\Pages\\AddPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T13:48:29.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pages\\OperatorEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\OperatorEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorEditPage.xaml.cs",
+              "RelativeToolTip": "DauevaApp\\Pages\\OperatorEditPage.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAICSURBVDhP3VNNaxNRFD3vzeSjk0xbp3EgaQ0JSYNRIaQEg5tgXFQQsjQb9YfoJq4Ed9267s76A0JASheFCBJxoRaCkBoJaZKBpDIZkplxfG861AbsQpceGIa5591zz333DgEc8vD1Hr0TzOeogF0pINhLPvp0I\u002B68LSeTM1yA4zgghDjepwuCx/Wcjwj0QU7JJK4GXrRPptGteOjg1qrx6sP\u002B3nGv13MPxmIxFItFPR6Pfy8UCgYLuUIEjxpvuIvlJXElpvhum5Yjb2fDxr2Nqdb59G5\u002B0u9jNpshHA4jm80eqaq6M5/PDyuVisHdEDxpZLmDytbq9eRa8KWmm6n7N5aRXxdgGT/c5E6ng2azyQtOM5nMfjqd3kmlUofMjSFid/vLs5pDr91s\u002B0VK5hFZxqbqR9jPHAavuH1PJhOejMFgIImieFeSJEvX9TYLfaMug\u002BdY0Y\u002BhYoDNNZwlOz/PKAaWAFYNiUQClNJQq9VabzQafs55AsDH9wf4\u002BrkF0zhdSGZ9gvWNUqkE1jfy\u002BTxYdQyHQ5c/F\u002BC3rWkaTNP0Ir8RCAQQiUQQjUahKAp34TEXBDh4v3\u002BLBYF/wf8mwCfQZ6vb7XYvfUaj0cJli96bj0ZnZKter2t89pfBtm1YlnUUCoXcH\u002Br8ZK1WE9mqyuPxWPBCf4TMVl0QBLtcLp9Wq1X7F/CLzyTfdu4LAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-24T13:48:29.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperatorEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorEditPage.xaml",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\OperatorEditPage.xaml",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorEditPage.xaml",
+              "RelativeToolTip": "DauevaApp\\Pages\\OperatorEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T13:48:30.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\Users.cs",
+              "RelativeToolTip": "DauevaApp\\Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:48:30.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorPage.xaml",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\OperatorPage.xaml",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorPage.xaml",
+              "RelativeToolTip": "DauevaApp\\Pages\\OperatorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T13:48:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\ClientPage.xaml.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\ClientPage.xaml.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\ClientPage.xaml.cs",
+              "RelativeToolTip": "DauevaApp\\Pages\\ClientPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAICSURBVDhP3VNNaxNRFD3vzeSjk0xbp3EgaQ0JSYNRIaQEg5tgXFQQsjQb9YfoJq4Ed9267s76A0JASheFCBJxoRaCkBoJaZKBpDIZkplxfG861AbsQpceGIa5591zz333DgEc8vD1Hr0TzOeogF0pINhLPvp0I\u002B68LSeTM1yA4zgghDjepwuCx/Wcjwj0QU7JJK4GXrRPptGteOjg1qrx6sP\u002B3nGv13MPxmIxFItFPR6Pfy8UCgYLuUIEjxpvuIvlJXElpvhum5Yjb2fDxr2Nqdb59G5\u002B0u9jNpshHA4jm80eqaq6M5/PDyuVisHdEDxpZLmDytbq9eRa8KWmm6n7N5aRXxdgGT/c5E6ng2azyQtOM5nMfjqd3kmlUofMjSFid/vLs5pDr91s\u002B0VK5hFZxqbqR9jPHAavuH1PJhOejMFgIImieFeSJEvX9TYLfaMug\u002BdY0Y\u002BhYoDNNZwlOz/PKAaWAFYNiUQClNJQq9VabzQafs55AsDH9wf4\u002BrkF0zhdSGZ9gvWNUqkE1jfy\u002BTxYdQyHQ5c/F\u002BC3rWkaTNP0Ir8RCAQQiUQQjUahKAp34TEXBDh4v3\u002BLBYF/wf8mwCfQZ6vb7XYvfUaj0cJli96bj0ZnZKter2t89pfBtm1YlnUUCoXcH\u002Br8ZK1WE9mqyuPxWPBCf4TMVl0QBLtcLp9Wq1X7F/CLzyTfdu4LAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-24T13:48:29.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\Requests.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Model\\Requests.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Model\\Requests.cs",
+              "RelativeToolTip": "DauevaApp\\Model\\Requests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAICSURBVDhP3VNNaxNRFD3vzeSjk0xbp3EgaQ0JSYNRIaQEg5tgXFQQsjQb9YfoJq4Ed9267s76A0JASheFCBJxoRaCkBoJaZKBpDIZkplxfG861AbsQpceGIa5591zz333DgEc8vD1Hr0TzOeogF0pINhLPvp0I\u002B68LSeTM1yA4zgghDjepwuCx/Wcjwj0QU7JJK4GXrRPptGteOjg1qrx6sP\u002B3nGv13MPxmIxFItFPR6Pfy8UCgYLuUIEjxpvuIvlJXElpvhum5Yjb2fDxr2Nqdb59G5\u002B0u9jNpshHA4jm80eqaq6M5/PDyuVisHdEDxpZLmDytbq9eRa8KWmm6n7N5aRXxdgGT/c5E6ng2azyQtOM5nMfjqd3kmlUofMjSFid/vLs5pDr91s\u002B0VK5hFZxqbqR9jPHAavuH1PJhOejMFgIImieFeSJEvX9TYLfaMug\u002BdY0Y\u002BhYoDNNZwlOz/PKAaWAFYNiUQClNJQq9VabzQafs55AsDH9wf4\u002BrkF0zhdSGZ9gvWNUqkE1jfy\u002BTxYdQyHQ5c/F\u002BC3rWkaTNP0Ir8RCAQQiUQQjUahKAp34TEXBDh4v3\u002BLBYF/wf8mwCfQZ6vb7XYvfUaj0cJli96bj0ZnZKter2t89pfBtm1YlnUUCoXcH\u002Br8ZK1WE9mqyuPxWPBCf4TMVl0QBLtcLp9Wq1X7F/CLzyTfdu4LAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-24T13:48:30.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\OperatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\OperatorPage.xaml.cs",
+              "RelativeToolTip": "DauevaApp\\Pages\\OperatorPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA5AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAICSURBVDhP3VNNaxNRFD3vzeSjk0xbp3EgaQ0JSYNRIaQEg5tgXFQQsjQb9YfoJq4Ed9267s76A0JASheFCBJxoRaCkBoJaZKBpDIZkplxfG861AbsQpceGIa5591zz333DgEc8vD1Hr0TzOeogF0pINhLPvp0I\u002B68LSeTM1yA4zgghDjepwuCx/Wcjwj0QU7JJK4GXrRPptGteOjg1qrx6sP\u002B3nGv13MPxmIxFItFPR6Pfy8UCgYLuUIEjxpvuIvlJXElpvhum5Yjb2fDxr2Nqdb59G5\u002B0u9jNpshHA4jm80eqaq6M5/PDyuVisHdEDxpZLmDytbq9eRa8KWmm6n7N5aRXxdgGT/c5E6ng2azyQtOM5nMfjqd3kmlUofMjSFid/vLs5pDr91s\u002B0VK5hFZxqbqR9jPHAavuH1PJhOejMFgIImieFeSJEvX9TYLfaMug\u002BdY0Y\u002BhYoDNNZwlOz/PKAaWAFYNiUQClNJQq9VabzQafs55AsDH9wf4\u002BrkF0zhdSGZ9gvWNUqkE1jfy\u002BTxYdQyHQ5c/F\u002BC3rWkaTNP0Ir8RCAQQiUQQjUahKAp34TEXBDh4v3\u002BLBYF/wf8mwCfQZ6vb7XYvfUaj0cJli96bj0ZnZKter2t89pfBtm1YlnUUCoXcH\u002Br8ZK1WE9mqyuPxWPBCf4TMVl0QBLtcLp9Wq1X7F/CLzyTfdu4LAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-24T13:48:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pages\\Auth.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Auth.xaml.cs",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\Auth.xaml.cs",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Auth.xaml.cs",
+              "RelativeToolTip": "DauevaApp\\Pages\\Auth.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwDAAAAAiAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAICSURBVDhP3VNNaxNRFD3vzeSjk0xbp3EgaQ0JSYNRIaQEg5tgXFQQsjQb9YfoJq4Ed9267s76A0JASheFCBJxoRaCkBoJaZKBpDIZkplxfG861AbsQpceGIa5591zz333DgEc8vD1Hr0TzOeogF0pINhLPvp0I\u002B68LSeTM1yA4zgghDjepwuCx/Wcjwj0QU7JJK4GXrRPptGteOjg1qrx6sP\u002B3nGv13MPxmIxFItFPR6Pfy8UCgYLuUIEjxpvuIvlJXElpvhum5Yjb2fDxr2Nqdb59G5\u002B0u9jNpshHA4jm80eqaq6M5/PDyuVisHdEDxpZLmDytbq9eRa8KWmm6n7N5aRXxdgGT/c5E6ng2azyQtOM5nMfjqd3kmlUofMjSFid/vLs5pDr91s\u002B0VK5hFZxqbqR9jPHAavuH1PJhOejMFgIImieFeSJEvX9TYLfaMug\u002BdY0Y\u002BhYoDNNZwlOz/PKAaWAFYNiUQClNJQq9VabzQafs55AsDH9wf4\u002BrkF0zhdSGZ9gvWNUqkE1jfy\u002BTxYdQyHQ5c/F\u002BC3rWkaTNP0Ir8RCAQQiUQQjUahKAp34TEXBDh4v3\u002BLBYF/wf8mwCfQZ6vb7XYvfUaj0cJli96bj0ZnZKter2t89pfBtm1YlnUUCoXcH\u002Br8ZK1WE9mqyuPxWPBCf4TMVl0QBLtcLp9Wq1X7F/CLzyTfdu4LAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-24T13:48:30.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Auth.xaml",
+              "DocumentMoniker": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Auth.xaml",
+              "RelativeDocumentMoniker": "DauevaApp\\Pages\\Auth.xaml",
+              "ToolTip": "C:\\Users\\AAAA\\Desktop\\Daueva-B3-master\\DauevaApp\\Pages\\Auth.xaml",
+              "RelativeToolTip": "DauevaApp\\Pages\\Auth.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T13:48:30.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
